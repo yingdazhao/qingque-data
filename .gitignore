@@ -9,7 +9,10 @@
 !/.gitattributes
 !/LICENSE.md
 !/README.md
+!/data/古辞书综合/万象名义.csv
 !/data/古辞书综合/新修玉篇.csv
+!/data/古辞书综合/新撰字镜.csv
+!/data/古辞书综合/说文解字.csv
 !/data/古辞书综合/龙龛手镜.csv
 !/docs/历史提交对应.csv
 !/docs/历史说明.md
