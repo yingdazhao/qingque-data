@@ -26,12 +26,13 @@
         "行内字序置信度",
         "推导页内字序"
       ],
-      "quality": "粗校"
+      "quality": "粗校",
+      "git_blob_sha1": "0f0a0c8b0818e07f636844a0bdadca8b0685a03e"
     },
     {
       "path": "data/古辞书综合/新修玉篇.csv",
-      "bytes": 11964931,
-      "sha256": "9b8f70a8454e33fea704e0dcb2697c14d974e1353c70a41b6047be4f55ad8ece",
+      "bytes": 11964842,
+      "sha256": "ab1d560fb658985de42bde58cf02b7b5f7b0b94c881110adc72af04100ff37bb",
       "csv_records": 68813,
       "columns": [
         "校对状态",
@@ -56,7 +57,8 @@
         "索引",
         "索引置信度"
       ],
-      "quality": "粗校"
+      "quality": "粗校",
+      "git_blob_sha1": "4aee64b012d9fa637947e0ab36ae72ce7147ea59"
     },
     {
       "path": "data/古辞书综合/说文解字.csv",
@@ -82,7 +84,8 @@
         "小徐（述古堂）",
         "小徐（祁寯藻）"
       ],
-      "quality": "精校"
+      "quality": "精校",
+      "git_blob_sha1": "402a811381e4486444b6655877d82623f95e4c5e"
     },
     {
       "path": "data/古辞书综合/万象名义.csv",
@@ -103,7 +106,8 @@
         "高山寺（资料丛书）",
         "吕浩"
       ],
-      "quality": "精校"
+      "quality": "精校",
+      "git_blob_sha1": "826916588180e19fed183ca6eb940f9c2aa97652"
     },
     {
       "path": "data/古辞书综合/新撰字镜.csv",
@@ -125,7 +129,8 @@
         "张磊",
         "天治本"
       ],
-      "quality": "精校"
+      "quality": "精校",
+      "git_blob_sha1": "406a536374f4b20adc36094b9430ddb81cc9d817"
     }
   ]
 }
