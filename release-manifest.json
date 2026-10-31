@@ -1,5 +1,5 @@
 {
-  "prepared_date": "2026-10-30",
+  "prepared_date": "2026-10-31",
   "data_files": [
     {
       "path": "data/古辞书综合/龙龛手镜.csv",
@@ -59,6 +59,28 @@
       ],
       "quality": "粗校",
       "git_blob_sha1": "4aee64b012d9fa637947e0ab36ae72ce7147ea59"
+    },
+    {
+      "path": "data/古辞书综合/原本玉篇.csv",
+      "bytes": 648521,
+      "sha256": "dfb0e385cf6887635a0d477eb2eea77fc42b20acd033f0c83cdc67de20f95965",
+      "csv_records": 2187,
+      "columns": [
+        "字头",
+        "注文",
+        "原玉ID",
+        "名义ID",
+        "卷序",
+        "部首",
+        "部首序",
+        "来源",
+        "苏芃",
+        "行",
+        "续四库",
+        "姚永铭"
+      ],
+      "quality": "出版",
+      "git_blob_sha1": "174c717205900cd81e9ea3c14d16edce2726dcbb"
     },
     {
       "path": "data/古辞书综合/说文解字.csv",
