@@ -1,5 +1,5 @@
 {
-  "prepared_date": "2026-10-31",
+  "prepared_date": "2026-11-01",
   "data_files": [
     {
       "path": "data/古辞书综合/龙龛手镜.csv",
@@ -31,15 +31,14 @@
     },
     {
       "path": "data/古辞书综合/新修玉篇.csv",
-      "bytes": 11964842,
-      "sha256": "ab1d560fb658985de42bde58cf02b7b5f7b0b94c881110adc72af04100ff37bb",
-      "csv_records": 68813,
+      "bytes": 11619113,
+      "sha256": "34eeb604334976d1ac7c6b6536c35bbfa5014d4927cb6b9210d7c3a7abb8fe29",
+      "csv_records": 69988,
       "columns": [
         "校对状态",
         "字头",
         "异体",
         "注文",
-        "笔画（不准）",
         "笔画（推导）",
         "来源（不准）",
         "部首",
@@ -58,7 +57,7 @@
         "索引置信度"
       ],
       "quality": "粗校",
-      "git_blob_sha1": "4aee64b012d9fa637947e0ab36ae72ce7147ea59"
+      "git_blob_sha1": "221c6f33a1bc4c3d5972053f55e527180288db2b"
     },
     {
       "path": "data/古辞书综合/原本玉篇.csv",
